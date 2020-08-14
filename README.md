@@ -7,10 +7,10 @@
 - [RESOURCE DEFINITION](#resource-definition)
 - [TESTING AND BUILDING RESOURCES](#testing-and-building-resources)
 - [INCLUDED POLICY ASSIGNMENTS](#included-policy-assignments)
-  * [Audit Diagnostic Log Enablement](#diagnostics.sls)
-  * [Restrict Allowed Resource Locations](#locations.sls)
-  * [Audit VM Disk Encryption](#vmencryption.sls)
-  * [Restrict Allowed VM Sizes](#vmsizes.sls)
+  * [Audit Diagnostic Log Enablement](#diagnosticssls)
+  * [Restrict Allowed Resource Locations](#locationssls)
+  * [Audit VM Disk Encryption](#vmencryptionsls)
+  * [Restrict Allowed VM Sizes](#vmsizessls)
 
 Azure is a cloud service offered by Microsoft that provides virtual machines, SQL services, media services, and more.
 Azure Resource Manager is the next generation of the Azure portal and API.
